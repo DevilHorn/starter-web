@@ -14,4 +14,4 @@ Slight changes done
 ##How To Contribute 
 
 ##Copyright
-Copyright DevilHorns
+Copyright DevilHorns edited
