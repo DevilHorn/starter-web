@@ -12,3 +12,6 @@ This will be added only
 Slight changes done
 
 ##How To Contribute 
+
+##Copyright
+Copyright DevilHorns
