@@ -12,6 +12,7 @@ This will be added only
 Slight changes done
 
 ##How To Contribute 
+Fork this repository and then issue pull request
 
 ##Copyright
 Copyright DevilHorns edited
