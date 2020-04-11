@@ -8,5 +8,7 @@ This is an example to show different parts of Git Repository
 As stated above
 
 ##Deployment
+This will be added only
+Slight changes done
 
 ##How To Contribute 
