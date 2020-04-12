@@ -1,5 +1,5 @@
 #Strater Web Project
-This is a simple project on how to use git and github.
+This is a simple project on how to use git and github. Adding this line for rebasing
 
 ##Introduction
 This is an example to show different parts of Git Repository
