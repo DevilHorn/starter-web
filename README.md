@@ -15,4 +15,4 @@ Slight changes done
 Fork this repository and then issue pull request
 
 ##Copyright
-Copyright DevilHorns edited
+Copyright DevilHorns edited. All rights reserved
